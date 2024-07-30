@@ -1,6 +1,6 @@
-### Next.js + MUI + TypeScript (Hỏi Dân IT)
+### Next.js + MUI + TypeScript
 
-Template này được sử dụng cho series React/Next.JS của tác giả Hỏi Dân IT (Eric)
+Template này được sử dụng cho series React/Next.JS của tác giả ỨNG NGỌC TRÍ
 
 Các bước cần làm:
 
@@ -8,5 +8,4 @@ Các bước cần làm:
 2. Cài đặt các thư viện cần thiết: npm i
 3. Chạy dự án với câu lệnh: npm run dev
 
- 
-Truy cập:  http://localhost:3000/
+Truy cập: http://localhost:3000/
